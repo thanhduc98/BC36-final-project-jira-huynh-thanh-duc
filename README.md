@@ -25,7 +25,7 @@
     	-Edit task:
     		+Edit task form (edit form, status, time track) (lỗi api timeTracking ❌)
 
-    		+Assign/remove task's member =>Minh Luân (lỗi api ❌)
+    		+Assign/remove task's member(lỗi api ❌)
     		+Add/Edit/Delete comments 
 
 #### 2.2/Create new project
